@@ -159,7 +159,7 @@ function App() {
                   <Redirect to="/shop" />
               </Route> */}
 
-              <Redirect exact from={'/'} to={'/shop'} />
+              <Redirect exact from={'/e-commerce'} to={'/shop'} />
               <Route path='/' component={Home} exact />
 
               <Route path='/shop' component={ShopSplit}/>
