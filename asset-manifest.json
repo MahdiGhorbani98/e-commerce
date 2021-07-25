@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MahdiGhorbani98/e-commerce/static/css/main.6b59aa9b.chunk.css",
+    "main.js": "/MahdiGhorbani98/e-commerce/static/js/main.03cefea8.chunk.js",
+    "main.js.map": "/MahdiGhorbani98/e-commerce/static/js/main.03cefea8.chunk.js.map",
+    "runtime-main.js": "/MahdiGhorbani98/e-commerce/static/js/runtime-main.80ca8448.js",
+    "runtime-main.js.map": "/MahdiGhorbani98/e-commerce/static/js/runtime-main.80ca8448.js.map",
+    "static/js/2.5d16cd4f.chunk.js": "/MahdiGhorbani98/e-commerce/static/js/2.5d16cd4f.chunk.js",
+    "static/js/2.5d16cd4f.chunk.js.map": "/MahdiGhorbani98/e-commerce/static/js/2.5d16cd4f.chunk.js.map",
+    "static/js/3.d1ad5fd8.chunk.js": "/MahdiGhorbani98/e-commerce/static/js/3.d1ad5fd8.chunk.js",
+    "static/js/3.d1ad5fd8.chunk.js.map": "/MahdiGhorbani98/e-commerce/static/js/3.d1ad5fd8.chunk.js.map",
+    "index.html": "/MahdiGhorbani98/e-commerce/index.html",
+    "static/css/main.6b59aa9b.chunk.css.map": "/MahdiGhorbani98/e-commerce/static/css/main.6b59aa9b.chunk.css.map",
+    "static/js/2.5d16cd4f.chunk.js.LICENSE.txt": "/MahdiGhorbani98/e-commerce/static/js/2.5d16cd4f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/MahdiGhorbani98/e-commerce/static/media/bgItemP.fdaee451.png",
+    "static/media/shoe-shop.8a0310e4.jpg": "/MahdiGhorbani98/e-commerce/static/media/shoe-shop.8a0310e4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80ca8448.js",
+    "static/js/2.5d16cd4f.chunk.js",
+    "static/css/main.6b59aa9b.chunk.css",
+    "static/js/main.03cefea8.chunk.js"
+  ]
+}
