@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/e-commerce/static/css/main.5c1dbe7c.chunk.css",
+    "main.css": "/e-commerce/static/css/main.4188b77a.chunk.css",
     "main.js": "/e-commerce/static/js/main.5f5737f6.chunk.js",
     "main.js.map": "/e-commerce/static/js/main.5f5737f6.chunk.js.map",
     "runtime-main.js": "/e-commerce/static/js/runtime-main.c0a2c6ec.js",
@@ -10,7 +10,7 @@
     "static/js/3.d1ad5fd8.chunk.js": "/e-commerce/static/js/3.d1ad5fd8.chunk.js",
     "static/js/3.d1ad5fd8.chunk.js.map": "/e-commerce/static/js/3.d1ad5fd8.chunk.js.map",
     "index.html": "/e-commerce/index.html",
-    "static/css/main.5c1dbe7c.chunk.css.map": "/e-commerce/static/css/main.5c1dbe7c.chunk.css.map",
+    "static/css/main.4188b77a.chunk.css.map": "/e-commerce/static/css/main.4188b77a.chunk.css.map",
     "static/js/2.5d16cd4f.chunk.js.LICENSE.txt": "/e-commerce/static/js/2.5d16cd4f.chunk.js.LICENSE.txt",
     "static/media/App.css": "/e-commerce/static/media/bgItemP.fdaee451.png",
     "static/media/shoe-shop.8a0310e4.jpg": "/e-commerce/static/media/shoe-shop.8a0310e4.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.c0a2c6ec.js",
     "static/js/2.5d16cd4f.chunk.js",
-    "static/css/main.5c1dbe7c.chunk.css",
+    "static/css/main.4188b77a.chunk.css",
     "static/js/main.5f5737f6.chunk.js"
   ]
 }
