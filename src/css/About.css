@@ -1,0 +1,71 @@
+article{
+    position: relative;
+    top: -265px;
+    display: flex;
+    justify-content: center;
+}
+article p{
+    background: url('../asstes/img/bgItemP.png');
+    font-weight: normal;
+    width: 65%;
+    line-height: 1.8;
+    border-radius: 40px;
+    padding: 25px 30px;
+}
+
+.date{
+    font-size: 16px;
+    margin-top: 25px;
+    margin-right: 60px;
+}
+
+@media(max-width : 1300px){
+
+}
+
+@media(max-width : 1125px){
+
+}
+
+@media(max-width : 769px){
+    article{
+        margin-top: 30px;
+    }
+    .date,.aboutTitle{
+        display: none;
+    }
+}
+
+
+
+@media(max-width : 650px){
+
+}
+@media(max-width : 550px){
+    article{
+        margin-top: 40px;
+    }
+}
+@media(max-width : 426px){
+    article p{
+
+        width: 75%;
+
+    }
+}
+
+@media(max-width : 376px){
+
+}
+
+@media(max-width : 321px){
+    article p{
+
+        width: 85%;
+
+    }
+    article{
+        margin-top: -30px;
+    }
+
+}

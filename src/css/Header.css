@@ -1,0 +1,185 @@
+.HeaderHolder{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 90px;
+}
+header{
+    border-radius: 0px 0 30px 30px;
+    position: fixed;
+    z-index: 10;
+    width: 75%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffebc1;
+    color: rgb(0, 0, 0);
+    /* text-align: center; */
+    font-weight: bold;
+    transition: 0.2s;
+    /* border-bottom: 2px solid rgb(156, 156, 156); */
+}
+
+.paddingHeader{
+    padding: 21px;
+}
+.paddingHeader__scrolling{
+    padding: 13px !important
+}
+
+.tabs{
+    /* margin-right: 0px; */
+    font-size: 14px;
+    display: flex;
+    list-style: none;
+}
+
+.tabs li{
+    margin: 0 17px;
+
+}
+
+.Link {
+    text-decoration: none;
+    color: black;
+}
+
+.activeTab{
+    color: #ff6b01;
+}
+
+.Brand{
+    margin-left: 20px;
+}
+
+.Brand h2{
+    display: flex;
+    align-items: center;
+}
+.Brand h2 button{
+    margin-right: 14px;
+}
+
+.CartHeader{
+    margin-right: 20px;
+}
+.Brand span{
+    width: 60px;
+    display: block;
+    margin-right: 14px;
+}
+
+
+@media(max-width : 1300px){
+    header{
+        width: 90%;
+    }
+}
+
+@media(max-width : 1125px){
+    header{
+        width: 95%;
+    }
+}
+
+@media(max-width : 769px){
+    /* header{
+        width: 98%;
+    } */
+    .tabs li{
+        margin: 0 8px;
+    }
+    .Brand h2{
+        font-size: 22px;
+    }
+}
+
+
+
+@media(max-width : 650px){
+    .CartHeader{
+        grid-area: ca;
+        padding-top: 4px;
+    }
+    .tabsHolder{
+        padding-bottom: 4px;
+        grid-area: ta;
+        display: block;
+        margin: 0 auto
+    }
+    .Brand{
+        grid-area: br;
+        padding-top: 4px;
+    }
+    header{
+        width: 98%;
+        display: grid;
+        grid-template-areas:
+         "br ca"
+         "ta ta"
+        ;
+        /* justify-content: center; */
+        margin-bottom: 90px;
+    }
+    .paddingHeader{
+        padding: 12px;
+    }
+    .paddingHeader__scrolling{
+        padding: 5px !important
+    }
+    .mainIcon{
+        font-size: 16px;
+        padding: 12px 13px;
+    }
+    
+}
+@media(max-width : 550px){
+    header{
+        width: 90%;
+    }
+    .tabsHolder{
+        padding: 4px;
+    }
+    .paddingHeader {
+        padding: 10px;
+    }
+}
+@media(max-width : 426px){
+    .Brand{
+        margin-left: 10px;
+    }
+    .CartHeader{
+        margin-right: 10px;
+    }
+}
+
+@media(max-width : 376px){
+    .Brand{
+        margin-left: 5px;
+    }
+    .CartHeader{
+        margin-right: 5px;
+    }
+    .totalPrice{
+        font-size: 14px;
+    }
+    .Brand h2 {
+        font-size: 19px;
+    }
+    header{
+        align-items: baseline;
+    }
+}
+
+@media(max-width : 321px){
+    .Brand h2 button{
+        margin-right: 4px;
+    }
+    .totalPrice{
+        margin-right: 4px;
+    }
+    header{
+        width: 96%;
+    }
+
+}

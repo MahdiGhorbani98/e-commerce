@@ -1,0 +1,39 @@
+@import url('./Products.css');
+@import url('./BasketCart.css');
+@import url('./Filter.css');
+@import url('./Header.css');
+ @import url('./About.css');
+@import url('./Home.css');
+
+*{
+    user-select: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Mulish', sans-serif;
+    /* font-weight: 700; */
+}
+
+body{
+    background-color: #ffebc1;
+}
+
+  ::-webkit-scrollbar {
+    width: 10px;
+  }
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #faf2d0; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #fcaf78; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #fd9447; 
+  }
+
+
