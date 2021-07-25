@@ -159,6 +159,7 @@ function App() {
                   <Redirect to="/shop" />
               </Route> */}
 
+              <Redirect exact from={'/'} to={'/shop'} />
               <Route path='/' component={Home} exact />
 
               <Route path='/shop' component={ShopSplit}/>
@@ -167,7 +168,6 @@ function App() {
 
               <Route path='/cotact'  component={null} />
 
-              <Redirect exact from={'/'} to={'/shop'} />
 
               {/* <Route component={null}/> */}
 
