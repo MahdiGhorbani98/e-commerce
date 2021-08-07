@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/e-commerce/static/css/main.4188b77a.chunk.css",
-    "main.js": "/e-commerce/static/js/main.a112389c.chunk.js",
-    "main.js.map": "/e-commerce/static/js/main.a112389c.chunk.js.map",
-    "runtime-main.js": "/e-commerce/static/js/runtime-main.7d68f11f.js",
-    "runtime-main.js.map": "/e-commerce/static/js/runtime-main.7d68f11f.js.map",
+    "main.js": "/e-commerce/static/js/main.19d74e0c.chunk.js",
+    "main.js.map": "/e-commerce/static/js/main.19d74e0c.chunk.js.map",
+    "runtime-main.js": "/e-commerce/static/js/runtime-main.4f5369d8.js",
+    "runtime-main.js.map": "/e-commerce/static/js/runtime-main.4f5369d8.js.map",
     "static/js/2.0d206e2b.chunk.js": "/e-commerce/static/js/2.0d206e2b.chunk.js",
     "static/js/2.0d206e2b.chunk.js.map": "/e-commerce/static/js/2.0d206e2b.chunk.js.map",
-    "static/js/3.7f69647a.chunk.js": "/e-commerce/static/js/3.7f69647a.chunk.js",
-    "static/js/3.7f69647a.chunk.js.map": "/e-commerce/static/js/3.7f69647a.chunk.js.map",
-    "static/js/4.416a46b3.chunk.js": "/e-commerce/static/js/4.416a46b3.chunk.js",
-    "static/js/4.416a46b3.chunk.js.map": "/e-commerce/static/js/4.416a46b3.chunk.js.map",
+    "static/js/3.f75be344.chunk.js": "/e-commerce/static/js/3.f75be344.chunk.js",
+    "static/js/3.f75be344.chunk.js.map": "/e-commerce/static/js/3.f75be344.chunk.js.map",
+    "static/js/4.ff900072.chunk.js": "/e-commerce/static/js/4.ff900072.chunk.js",
+    "static/js/4.ff900072.chunk.js.map": "/e-commerce/static/js/4.ff900072.chunk.js.map",
     "static/js/5.fc247e1b.chunk.js": "/e-commerce/static/js/5.fc247e1b.chunk.js",
     "static/js/5.fc247e1b.chunk.js.map": "/e-commerce/static/js/5.fc247e1b.chunk.js.map",
-    "static/js/6.57ed50ae.chunk.js": "/e-commerce/static/js/6.57ed50ae.chunk.js",
-    "static/js/6.57ed50ae.chunk.js.map": "/e-commerce/static/js/6.57ed50ae.chunk.js.map",
+    "static/js/6.fb7710c6.chunk.js": "/e-commerce/static/js/6.fb7710c6.chunk.js",
+    "static/js/6.fb7710c6.chunk.js.map": "/e-commerce/static/js/6.fb7710c6.chunk.js.map",
     "static/js/7.49d2d539.chunk.js": "/e-commerce/static/js/7.49d2d539.chunk.js",
     "static/js/7.49d2d539.chunk.js.map": "/e-commerce/static/js/7.49d2d539.chunk.js.map",
     "index.html": "/e-commerce/index.html",
@@ -24,9 +24,9 @@
     "static/media/shoe-shop.8a0310e4.jpg": "/e-commerce/static/media/shoe-shop.8a0310e4.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7d68f11f.js",
+    "static/js/runtime-main.4f5369d8.js",
     "static/js/2.0d206e2b.chunk.js",
     "static/css/main.4188b77a.chunk.css",
-    "static/js/main.a112389c.chunk.js"
+    "static/js/main.19d74e0c.chunk.js"
   ]
 }
